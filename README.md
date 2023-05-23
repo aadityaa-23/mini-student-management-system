@@ -1,2 +1,2 @@
 # mini-student-management-system
-<a href="http://studentportal.great-site.net/">try here</a>
+<a href="https://studentportal.great-site.net/">try here</a>
